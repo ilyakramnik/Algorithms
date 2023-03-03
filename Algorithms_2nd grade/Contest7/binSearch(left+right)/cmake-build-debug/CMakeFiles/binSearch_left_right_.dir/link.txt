@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\binSearch_left_right_.dir/objects.a
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\binSearch_left_right_.dir/objects.a @CMakeFiles\binSearch_left_right_.dir\objects1.rsp
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\binSearch_left_right_.dir/objects.a -Wl,--no-whole-archive -o binSearch_left_right_.exe -Wl,--out-implib,libbinSearch_left_right_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\binSearch_left_right_.dir\linklibs.rsp

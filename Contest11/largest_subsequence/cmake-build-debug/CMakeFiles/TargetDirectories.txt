@@ -1,3 +1,0 @@
-C:/Users/User/Algorithms_2nd grade/Contest11/largest_subsequence/cmake-build-debug/CMakeFiles/largest_subsequence.dir
-C:/Users/User/Algorithms_2nd grade/Contest11/largest_subsequence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Algorithms_2nd grade/Contest11/largest_subsequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

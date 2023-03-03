@@ -1,0 +1,3 @@
+C:/Users/User/Contests_2nd grade/Contest5/Tree's high/cmake-build-debug/CMakeFiles/Tree_s_high.dir
+C:/Users/User/Contests_2nd grade/Contest5/Tree's high/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Contests_2nd grade/Contest5/Tree's high/cmake-build-debug/CMakeFiles/rebuild_cache.dir

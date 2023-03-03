@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Bonus_contest2/Bloom_filter/cmake-build-debug/CMakeFiles/Bloom_filter.dir
-C:/Users/User/Contests_2nd grade/Bonus_contest2/Bloom_filter/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Bonus_contest2/Bloom_filter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/User/Algorithms_2nd grade/Contest9/heap_class/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Algorithms_2nd grade/Contest9/heap_class/cmake-build-debug/CMakeFiles/heap_class.dir
-C:/Users/User/Algorithms_2nd grade/Contest9/heap_class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

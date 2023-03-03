@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms_2nd grade/Contest11/wood_sawing/cmake-build-debug/CMakeFiles/wood_sawing.dir
+C:/Users/User/Algorithms_2nd grade/Contest11/wood_sawing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms_2nd grade/Contest11/wood_sawing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

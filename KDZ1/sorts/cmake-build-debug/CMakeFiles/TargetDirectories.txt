@@ -1,3 +1,0 @@
-C:/Users/User/Algorithms_2nd grade/KDZ1/sorts/cmake-build-debug/CMakeFiles/sorts.dir
-C:/Users/User/Algorithms_2nd grade/KDZ1/sorts/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Algorithms_2nd grade/KDZ1/sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

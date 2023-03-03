@@ -1,7 +1,0 @@
-size
-push -531
-pop
-back
-push 960
-push 187
-exit

@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Contest8/radix_sort/cmake-build-debug/CMakeFiles/radix_sort.dir
-C:/Users/User/Contests_2nd grade/Contest8/radix_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Contest8/radix_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

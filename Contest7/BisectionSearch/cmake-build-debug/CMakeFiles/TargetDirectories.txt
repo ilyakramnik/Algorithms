@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Contest7/BisectionSearch/cmake-build-debug/CMakeFiles/BisectionSearch.dir
-C:/Users/User/Contests_2nd grade/Contest7/BisectionSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Contest7/BisectionSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

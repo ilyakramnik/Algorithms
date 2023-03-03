@@ -1,3 +1,0 @@
-C:/Users/User/Contest1/stack/cmake-build-debug/CMakeFiles/stack.dir
-C:/Users/User/Contest1/stack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contest1/stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Contest9/life_after_factory(interactive_task)/cmake-build-debug/CMakeFiles/life_after_factory.dir
-C:/Users/User/Contests_2nd grade/Contest9/life_after_factory(interactive_task)/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Contest9/life_after_factory(interactive_task)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

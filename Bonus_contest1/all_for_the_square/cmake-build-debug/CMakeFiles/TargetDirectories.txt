@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Bonus_contest/all_for_the_square/cmake-build-debug/CMakeFiles/all_for_the_square.dir
-C:/Users/User/Contests_2nd grade/Bonus_contest/all_for_the_square/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Bonus_contest/all_for_the_square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

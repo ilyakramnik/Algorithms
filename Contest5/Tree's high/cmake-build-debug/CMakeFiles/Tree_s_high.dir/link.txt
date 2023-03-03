@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Tree_s_high.dir/objects.a
-C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\Tree_s_high.dir/objects.a @CMakeFiles\Tree_s_high.dir\objects1.rsp
-C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Tree_s_high.dir/objects.a -Wl,--no-whole-archive -o Tree_s_high.exe -Wl,--out-implib,libTree_s_high.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tree_s_high.dir\linklibs.rsp

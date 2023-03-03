@@ -1,3 +1,0 @@
-C:/Users/User/Contests_2nd grade/Contest10/the_biggest_square/cmake-build-debug/CMakeFiles/the_biggest_square.dir
-C:/Users/User/Contests_2nd grade/Contest10/the_biggest_square/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Contests_2nd grade/Contest10/the_biggest_square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

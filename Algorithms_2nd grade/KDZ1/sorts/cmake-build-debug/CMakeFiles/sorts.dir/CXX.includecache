@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms_2nd grade/KDZ1/sorts/main.cpp
+iostream
+-
+chrono
+-
+ctime
+-
+cstdlib
+-
+vector
+-
+algorithm
+-
+cmath
+-
+

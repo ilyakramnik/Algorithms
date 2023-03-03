@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\the_biggest_square.dir/objects.a
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\the_biggest_square.dir/objects.a @CMakeFiles\the_biggest_square.dir\objects1.rsp
+C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\the_biggest_square.dir/objects.a -Wl,--no-whole-archive -o the_biggest_square.exe -Wl,--out-implib,libthe_biggest_square.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\the_biggest_square.dir\linklibs.rsp

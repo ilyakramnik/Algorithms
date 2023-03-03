@@ -1,3 +1,0 @@
-C:/Users/User/Algorithms_2nd grade/Contest11/task_about_backpack/cmake-build-debug/CMakeFiles/task_about_backpack.dir
-C:/Users/User/Algorithms_2nd grade/Contest11/task_about_backpack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Algorithms_2nd grade/Contest11/task_about_backpack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
