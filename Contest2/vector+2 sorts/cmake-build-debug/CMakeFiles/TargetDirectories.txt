@@ -1,0 +1,3 @@
+C:/Users/User/Contests_2nd grade/Contest2/vector+2 sorts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Contests_2nd grade/Contest2/vector+2 sorts/cmake-build-debug/CMakeFiles/vector_2_sorts.dir
+C:/Users/User/Contests_2nd grade/Contest2/vector+2 sorts/cmake-build-debug/CMakeFiles/edit_cache.dir

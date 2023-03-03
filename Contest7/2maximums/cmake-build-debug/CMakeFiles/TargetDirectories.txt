@@ -1,0 +1,3 @@
+C:/Users/User/Contests_2nd grade/Contest7/2maximums/cmake-build-debug/CMakeFiles/2maximums.dir
+C:/Users/User/Contests_2nd grade/Contest7/2maximums/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Contests_2nd grade/Contest7/2maximums/cmake-build-debug/CMakeFiles/rebuild_cache.dir

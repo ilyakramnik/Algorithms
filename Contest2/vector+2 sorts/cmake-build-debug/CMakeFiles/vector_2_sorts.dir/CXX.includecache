@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Contests_2nd grade/Contest2/vector+2 sorts/main.cpp
+iostream
+-
+iterator
+-
+initializer_list
+-
+cstring
+-
+

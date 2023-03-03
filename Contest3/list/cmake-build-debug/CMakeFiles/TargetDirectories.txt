@@ -1,0 +1,3 @@
+C:/Users/User/Contests_2nd grade/Contest3/list/cmake-build-debug/CMakeFiles/list.dir
+C:/Users/User/Contests_2nd grade/Contest3/list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Contests_2nd grade/Contest3/list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

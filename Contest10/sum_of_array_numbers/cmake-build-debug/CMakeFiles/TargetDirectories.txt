@@ -1,0 +1,3 @@
+C:/Users/User/Contests_2nd grade/Contest10/sum_of_array_numbers/cmake-build-debug/CMakeFiles/sum_of_array_numbers.dir
+C:/Users/User/Contests_2nd grade/Contest10/sum_of_array_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Contests_2nd grade/Contest10/sum_of_array_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
