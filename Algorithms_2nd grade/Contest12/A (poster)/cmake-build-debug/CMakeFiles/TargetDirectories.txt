@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/A (poster)/cmake-build-debug/CMakeFiles/A__poster_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/A (poster)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/A (poster)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

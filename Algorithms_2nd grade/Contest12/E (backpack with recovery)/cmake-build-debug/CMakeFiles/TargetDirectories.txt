@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/E (backpack with recovery)/cmake-build-debug/CMakeFiles/E__backpack_with_recovery_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/E (backpack with recovery)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/E (backpack with recovery)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

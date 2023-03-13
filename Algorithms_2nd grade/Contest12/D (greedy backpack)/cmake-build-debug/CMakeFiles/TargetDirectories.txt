@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/D (greedy backpack)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/D (greedy backpack)/cmake-build-debug/CMakeFiles/D__greedy_backpack_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest12/D (greedy backpack)/cmake-build-debug/CMakeFiles/edit_cache.dir

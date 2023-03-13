@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/Contests_2nd grade/Contest10/sum_in_rectangle
+# Install script for directory: C:/Users/User/Algorithms/Algorithms_2nd grade/Contest10/sum_in_rectangle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/User/Contests_2nd grade/Contest10/sum_in_rectangle/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/User/Algorithms/Algorithms_2nd grade/Contest10/sum_in_rectangle/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

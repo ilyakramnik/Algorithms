@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Contests_2nd grade/Contest10/sum_in_rectangle/main.cpp" "C:/Users/User/Contests_2nd grade/Contest10/sum_in_rectangle/cmake-build-debug/CMakeFiles/sum_in_rectangle.dir/main.cpp.obj"
+  "C:/Users/User/Algorithms/Algorithms_2nd grade/Contest10/sum_in_rectangle/main.cpp" "C:/Users/User/Algorithms/Algorithms_2nd grade/Contest10/sum_in_rectangle/cmake-build-debug/CMakeFiles/sum_in_rectangle.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
