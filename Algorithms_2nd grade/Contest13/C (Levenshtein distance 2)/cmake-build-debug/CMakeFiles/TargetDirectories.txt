@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/C (Levenshtein distance 2)/cmake-build-debug/CMakeFiles/C__Levenshtein_distance_2_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/C (Levenshtein distance 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/C (Levenshtein distance 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

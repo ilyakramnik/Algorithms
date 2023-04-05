@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/B (base of the string)/cmake-build-debug/CMakeFiles/B__base_of_the_string_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/B (base of the string)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/B (base of the string)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/A (Prefix-function)/cmake-build-debug/CMakeFiles/A__Prefix_function_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/A (Prefix-function)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest15/A (Prefix-function)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/E (self-development on PI)/cmake-build-debug/CMakeFiles/E__self_development_on_PI_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/E (self-development on PI)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/E (self-development on PI)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

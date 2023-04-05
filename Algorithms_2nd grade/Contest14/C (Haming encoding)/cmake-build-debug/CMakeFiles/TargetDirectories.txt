@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest14/C (Haming encoding)/cmake-build-debug/CMakeFiles/C__Haming_encoding_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest14/C (Haming encoding)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest14/C (Haming encoding)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

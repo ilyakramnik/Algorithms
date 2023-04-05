@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/A (KPM)/cmake-build-debug/CMakeFiles/A__KPM_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/A (KPM)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest13/A (KPM)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
