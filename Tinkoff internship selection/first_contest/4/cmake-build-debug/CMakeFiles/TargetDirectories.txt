@@ -1,3 +1,0 @@
-C:/Users/User/Algorithms/Algorithms_2nd grade/Tinkoff internship selection/first_contest/4/cmake-build-debug/CMakeFiles/4.dir
-C:/Users/User/Algorithms/Algorithms_2nd grade/Tinkoff internship selection/first_contest/4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Algorithms/Algorithms_2nd grade/Tinkoff internship selection/first_contest/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
