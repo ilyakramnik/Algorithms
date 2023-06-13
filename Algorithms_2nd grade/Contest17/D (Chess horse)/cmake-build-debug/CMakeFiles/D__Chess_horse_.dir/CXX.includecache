@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest17/D (Chess horse)/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+algorithm
+-
+

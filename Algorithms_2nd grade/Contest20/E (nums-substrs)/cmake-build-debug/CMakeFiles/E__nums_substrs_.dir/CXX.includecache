@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest20/E (nums-substrs)/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+algorithm
+-
+string
+-
+unordered_set
+-
+

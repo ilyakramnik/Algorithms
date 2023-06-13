@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest18/D (getting dressed)/cmake-build-debug/CMakeFiles/D__getting_dressed_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest18/D (getting dressed)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest18/D (getting dressed)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

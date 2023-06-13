@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/E (Simple task)/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+queue
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest17/C (DFS)/main.cpp
+vector
+-
+string
+-
+algorithm
+-
+iostream
+-
+queue
+-
+unordered_map
+-
+stack
+-
+

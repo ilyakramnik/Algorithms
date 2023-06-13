@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Algorithms/Algorithms_2nd grade/KDZ3/code/main.cpp
+iostream
+-
+vector
+-
+random
+-
+algorithm
+-
+queue
+-
+limits
+-
+chrono
+-
+fstream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/B (Cows)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/B (Cows)/cmake-build-debug/CMakeFiles/B__Cows_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/B (Cows)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

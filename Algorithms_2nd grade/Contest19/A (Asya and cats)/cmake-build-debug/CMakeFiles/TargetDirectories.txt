@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest19/A (Asya and cats)/cmake-build-debug/CMakeFiles/A__Asya_and_cats_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest19/A (Asya and cats)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest19/A (Asya and cats)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

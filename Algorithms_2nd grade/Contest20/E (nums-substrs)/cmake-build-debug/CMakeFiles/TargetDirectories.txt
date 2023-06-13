@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest20/E (nums-substrs)/cmake-build-debug/CMakeFiles/E__nums_substrs_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest20/E (nums-substrs)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest20/E (nums-substrs)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

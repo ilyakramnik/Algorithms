@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/A (max flow)/cmake-build-debug/CMakeFiles/A__max_flow_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/A (max flow)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Contest21/A (max flow)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

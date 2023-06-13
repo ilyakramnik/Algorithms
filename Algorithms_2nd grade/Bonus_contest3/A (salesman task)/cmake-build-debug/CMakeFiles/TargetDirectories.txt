@@ -1,0 +1,3 @@
+C:/Users/User/Algorithms/Algorithms_2nd grade/Bonus_contest3/A (salesman task)/cmake-build-debug/CMakeFiles/A__salesman_task_.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Bonus_contest3/A (salesman task)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Algorithms/Algorithms_2nd grade/Bonus_contest3/A (salesman task)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
